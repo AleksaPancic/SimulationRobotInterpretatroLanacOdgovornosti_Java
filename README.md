@@ -1,0 +1,1 @@
+# SimulationRobotInterpretatroLanacOdgovornosti_cpp
